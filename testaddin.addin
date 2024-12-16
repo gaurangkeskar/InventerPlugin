@@ -1,0 +1,14 @@
+﻿<Addin Type="Standard">
+	<!--Created for Autodesk Inventor 2018 (Version 22.0)-->
+	<ClassId>{c322e19b-5e98-46c5-bfe1-fe8cd2e4c173}</ClassId>
+	<ClientId>{c322e19b-5e98-46c5-bfe1-fe8cd2e4c173}</ClientId>
+	<DisplayName>My Plugin</DisplayName>
+	<Description>My Custom Inventor PlugIn</Description>
+	<Assembly>D:\InventerPlugin\InventerPlugin\bin\Debug\InventerPlugin.dll</Assembly>
+	<LoadOnStartUp>1</LoadOnStartUp>
+	<UserUnloadable>1</UserUnloadable>
+	<Hidden>0</Hidden>
+	<SupportedSoftwareVersionGreaterThan>21..</SupportedSoftwareVersionGreaterThan>
+	<DataVersion>1</DataVersion>
+	<UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>
